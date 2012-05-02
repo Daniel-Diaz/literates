@@ -178,6 +178,7 @@ Closure
 -------
 
 I think this is a very funny exercise, and that's why I posted it here.
-I hope you enjoy it like I did.
+I hope you enjoy it like I did. You can get the code of this post from
+[GitHub](https://github.com/Daniel-Diaz/literates/blob/master/Typed.lhs).
 
 Good luck, Daniel Díaz.
